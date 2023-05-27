@@ -1,1 +1,1 @@
-First App using React.js
+First App "NotesKeeper"  using React.js
